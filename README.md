@@ -55,6 +55,9 @@ Use multiple items and abilities in your way to achieving more score...
   <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/7.jpg" />
 </p>
 
+<br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/deepanjansitt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deepanjansitt" /></a><a href="https://ko-fi.com/deepanjansitt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="deepanjansitt" /></a></p><br><br><br>
 
 
 ## Credits
