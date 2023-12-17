@@ -34,20 +34,27 @@ Use multiple items and abilities in your way to achieving more score...
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/deepanjansitt/Hit-Ball-Game/blob/main/Assets/Resources/Textures/ScreenShots/1.jpg" />
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/1.jpg" />
 </p>
 <p align="center">
-  <img src="https://github.com/deepanjansitt/Hit-Ball-Game/blob/main/Assets/Resources/Textures/ScreenShots/2.jpg" />
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/2.jpg" />
 </p>
 <p align="center">
-  <img src="https://github.com/deepanjansitt/Hit-Ball-Game/blob/main/Assets/Resources/Textures/ScreenShots/3.jpg" />
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/3.jpg" />
 </p>
 <p align="center">
-  <img src="https://github.com/deepanjansitt/Hit-Ball-Game/blob/main/Assets/Resources/Textures/ScreenShots/4.jpg" />
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/4.jpg" />
 </p>
 <p align="center">
-  <img src="https://github.com/deepanjansitt/Hit-Ball-Game/blob/main/Assets/Resources/Textures/ScreenShots/5.jpg" />
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/5.jpg" />
 </p>
+<p align="center">
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/6.jpg" />
+</p>
+<p align="center">
+  <img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Screenshots/7.jpg" />
+</p>
+
 
 
 ## Credits
