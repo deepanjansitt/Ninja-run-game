@@ -1,6 +1,6 @@
 # Ninja Run
 
-<center><img src="https://github.com/deepanjansitt/Ultron-1.0/blob/main/Ultron-1.0%20banner/photo_2023-11-17_01-09-41.jpg" width="1000"></center></img>
+<center><img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Ninja%20run%20banner/photo_2023-12-17_13-26-32.jpg" width="1000"></center></img>
 
 Ninja Run is a running game made in [Unity](https://unity3d.com/)
 
