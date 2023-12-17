@@ -27,7 +27,7 @@ Use multiple items and abilities in your way to achieving more score...
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1IOioz2lc0uv-x2XV723JXrXwH0jGJDU9/view?usp=drivesdk">
-    <img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-red-color-by-mtc-tutorials-2048x574.png" height="150">
+    <img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-red-color-by-mtc-tutorials-2048x574.png" height="100">
   </a>
 </p>
 
