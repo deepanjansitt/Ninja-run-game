@@ -1,4 +1,4 @@
-# Ninja Run
+# Ninja Run Game
 
 <center><img src="https://github.com/deepanjansitt/Ninja-run-game/blob/main/Ninja%20run%20banner/photo_2023-12-17_13-26-32.jpg" width="1000"></center></img>
 
